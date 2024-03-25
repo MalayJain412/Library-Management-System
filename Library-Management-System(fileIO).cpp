@@ -197,31 +197,6 @@ private:
 
 int main()
 {
-    // Library library;
-
-    // library.addBook(Book("The Great Gatsby", "F. Scott Fitzgerald", "9780743273565"));
-    // library.addBook(Book("To Kill a Mockingbird", "Harper Lee", "9780061120084"));
-    // library.addBook(Book("1984", "George Orwell", "9780451524935"));
-    // library.addBook(Book("Pride and Prejudice", "Jane Austen", "9780141439518"));
-    // library.addBook(Book("The Catcher in the Rye", "J.D. Salinger", "9780316769488"));
-    // library.addBook(Book("The Hobbit", "J.R.R. Tolkien", "9780345339683"));
-    // library.addBook(Book("The Da Vinci Code", "Dan Brown", "9780307474278"));
-    // library.addBook(Book("Harry Potter and the Sorcerer's Stone", "J.K. Rowling", "9780590353427"));
-    // library.addBook(Book("The Lord of the Rings", "J.R.R. Tolkien", "9780261102385"));
-    // library.addBook(Book("The Alchemist", "Paulo Coelho", "9780061122415"));
-    // library.addBook(Book("The Little Prince", "Antoine de Saint-Exupéry", "9780156012195"));
-
-    // library.addStudent(Student("Aarav", 101, "Computer Science", 1));
-    // library.addStudent(Student("Aarohi", 102, "Electrical Engineering", 2));
-    // library.addStudent(Student("Aisha", 103, "Mechanical Engineering", 3));
-    // library.addStudent(Student("Advait", 104, "Civil Engineering", 4));
-    // library.addStudent(Student("Aditi", 105, "Chemical Engineering", 1));
-    // library.addStudent(Student("Amit", 106, "Computer Science", 2));
-    // library.addStudent(Student("Amrita", 107, "Electronics Engineering", 3));
-    // library.addStudent(Student("Anaya", 108, "Information Technology", 4));
-    // library.addStudent(Student("Aniket", 109, "Computer Science", 1));
-    // library.addStudent(Student("Manya", 110, "Electrical Engineering", 2));
-
     Library library;
 
     // Open the file containing book data
